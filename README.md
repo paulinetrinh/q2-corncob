@@ -51,7 +51,6 @@ This is a Community Tutorial for q2-corncob within the qiime2-2018.8 release.
 - within-taxon correlation
 - hypothesis testing with categorical and continuous covariates
 
-A vignette on how to use `corncob` in `R` can be found [here]().
 
 Currently, q2-corncob has made available the following functions within `corncob`:
 - `differentialtest()`
